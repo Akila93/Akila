@@ -67,7 +67,7 @@ The example `PaymentOptionsProvider` receives all Spring beans implementing this
 
 ## 4. Flow A — External payment gateway (hosted checkout)
 
-![External hosted-checkout payment flow](/asserts/external-payment-gateway.png)
+![External hosted-checkout payment flow](/02-project-case-studies/payment-gateway-integration/asserts/external-payment-gateway.png)
 
 **Sequence**
 
