@@ -96,7 +96,7 @@ The example `PaymentOptionsProvider` receives all Spring beans implementing this
 
 **Mapping to sample code:** `MyInternalPaymentgatewayHandler` calls `PaymentGatewayStubLib.initiatePayment(...)` and immediately invokes its post-payment method. **The supplied code is only a mock:** it discards the stub's return value, constructs a hard-coded `SUCCESS` post-payment request, and returns a placeholder URL. It does **not** actually transmit card data or verify a provider authorization. The diagram describes the intended direct-integration pattern, not functionality fully implemented by this snippet.
 
-**Security note:** Collecting raw card data on the business application's own pages can significantly increase PCI DSS scope. A real implementation requires a PCI-compliant design and should prefer tokenization or provider-hosted fields where supported. Never log PAN, CVV, or other sensitive authentication data.
+**Security note:** Collecting raw card data on the business application's own pages can significantly increase PCI DSS scope. A real implementation requires a PCI-compliant design. In most cases they provide Iframe or some kind of frontend componet to be included in the clients web application (provider-hosted fields). Otherwise the inputs need to be tokenized upon sumbiting (must be a PCI-compliant design). Never log PAN, CVV, or other sensitive authentication data.
 
 ## 6. Flow C — Internal–external payment gateway (hybrid)
 
