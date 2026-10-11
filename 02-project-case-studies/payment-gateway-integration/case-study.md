@@ -83,7 +83,7 @@ The example `PaymentOptionsProvider` receives all Spring beans implementing this
 
 ## 5. Flow B — Internal payment gateway (direct backend API)
 
-![Direct backend payment gateway integration](assets/internal-payment-gateway.png)
+![Direct backend payment gateway integration](/02-project-case-studies/payment-gateway-integration/assets/internal-payment-gateway.png)
 
 **Sequence**
 
@@ -100,7 +100,7 @@ The example `PaymentOptionsProvider` receives all Spring beans implementing this
 
 ## 6. Flow C — Internal–external payment gateway (hybrid)
 
-![Hybrid backend-initiation and hosted-checkout flow](assets/hybrid-payment-gateway.png)
+![Hybrid backend-initiation and hosted-checkout flow](/02-project-case-studies/payment-gateway-integration/assets/hybrid-payment-gateway.png)
 
 **Sequence**
 
