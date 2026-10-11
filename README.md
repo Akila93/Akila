@@ -16,10 +16,10 @@ This portfolio goes beyond my CV: it explains **the engineering problems, my con
 
 | Case study | Engineering challenge | My contribution / focus |
 | --- | --- | --- |
+| **[Airline Payment Gateway Integration →](02-project-case-studies/payment-gateway-integration/case-study.md)** | Integrating and upgrading payment flows in an airline reservation platform | Contributed to payment gateway upgrades, 3-D Secure support, and integration of a payment microservice with a legacy application. |
 | **[Post-Approval Straight-Through Processing (STP) →](02-project-case-studies/Straight_Through_To_Process_STP/case-study.md)** | Automating downstream steps after loan approval in a hire purchase block discounting workflow | Implemented STP processing for account creation, worksheet generation, and account relationship creation. |
 | **[Dynamic Document Generation →](02-project-case-studies/dynamic-document-generation/case-study.md)** | Generating different loan offer documents from application data and business rules | Worked on Java-based PDF/Word generation and integration with existing banking systems. |
 | **[On-Demand Borrower History and Consolidated Data Extraction →](02-project-case-studies/on-demand-borrower-history/case-study.md)** | Bringing borrower exposure, account messages, and related information into a consolidated workflow | Developed scheduled data retrieval and integrations for borrower/account information. *Caching and API-overhead improvements are topics to substantiate in the case study.* |
-| **[Airline Payment Gateway Integration →](02-project-case-studies/payment-gateway-integration/case-study.md)** | Integrating and upgrading payment flows in an airline reservation platform | Contributed to payment gateway upgrades, 3-D Secure support, and integration of a payment microservice with a legacy application. |
 
 > **Reading guide:** Each case study should describe the business problem, constraints, architecture approach, my specific responsibilities, implementation details, trade-offs, and any measurable outcomes that can be verified and disclosed.
 
