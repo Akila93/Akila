@@ -113,7 +113,7 @@ Worked on Aeromart airline reservation functionality and related integration ser
 
 ## Engineering Evidence and Case Studies
 
-I am developing a portfolio of original technical demonstrations and approved case studies to explain my engineering approach beyond the space available in a CV.
+I am developing a portfolio of demonstrational case studies to explain my engineering approach beyond the space available in a CV.
 
 | Case study | Focus | Status |
 | --- | --- | --- |
