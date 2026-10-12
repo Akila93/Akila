@@ -92,6 +92,8 @@ Worked on Aeromart airline reservation functionality and related integration ser
 
 **Technologies recorded:** Java, Spring, Struts 2, Hibernate, JBoss, Docker, React.js, EJB; Java and Spring Boot for API gateway work.
 
+**Demonstration Project:** [Backend architecture Payment Gateway Intergration](../02-project-case-studies/payment-gateway-integration/case-study.md)
+
 ## Employment History
 
 | Period | Role | Organisation | Location |
