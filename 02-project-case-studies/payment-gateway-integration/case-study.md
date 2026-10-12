@@ -1,3 +1,7 @@
+[← Back to engineering portfolio](../../README.md) · [Professional engineering profile](../../01-professional-profile/engineering-profile.md)
+
+---
+
 # Payment Gateway Integration — Multi-Provider Payment Handling
 
 **Domain:** Airline reservation and booking systems  
