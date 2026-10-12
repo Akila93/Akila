@@ -1,3 +1,7 @@
+[← Back to engineering portfolio](../../README.md) · [Professional engineering profile](../../01-professional-profile/engineering-profile.md)
+
+---
+
 # On-Demand Borrower History Snapshot
 
 **Architecture case study | Java 8 | No application framework | Producer–Consumer | Dedicated worker threads | gRPC**
