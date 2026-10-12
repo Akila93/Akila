@@ -115,9 +115,9 @@ I am developing a portfolio of original technical demonstrations and approved ca
 
 | Case study | Focus | Status |
 | --- | --- | --- |
+| [Backend architecture Payment Gateway Intergration](../02-project-case-studies/payment-gateway-integration/case-study.md) | Different payment Type, unified integration design | Done ✅ |
 | [On Demand Borrower History](../02-project-case-studies/on-demand-borrower-history/case-study.md)| Data Caching, Reduce API over head | Done ✅ |
 | [Onfly Document generation](../02-project-case-studies/dynamic-document-generation/case-study.md) | Business rules onfly, PDF/Word generation | To add |
-| [Backend architecture Payment Gateway Intergration](../02-project-case-studies/payment-gateway-integration/case-study.md) | Different payment Type, unified integration design | Done ✅ |
 | [Straight Through To Process](../02-project-case-studies/Straight_Through_To_Process_STP/case-study.md) | Chain of responsibilities, post acceptance automation for loan | To add |
 
 > **Confidentiality:** Employer source code, private repository histories, internal diagrams, customer data, and proprietary implementation details are not published here. Public examples are independently developed or shared only with permission.
