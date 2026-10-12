@@ -372,5 +372,5 @@ This portfolio case study demonstrates architectural reasoning around **Java 8 c
 
 ---
 
-**Portfolio navigation:** [Back to portfolio homepage](../../README.md)
+[← Back to engineering portfolio](../../README.md) · [Professional engineering profile](../../01-professional-profile/engineering-profile.md)
 
