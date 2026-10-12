@@ -52,6 +52,8 @@ Worked on document-generation functionality for home loans and for SME+ and auto
 
 **Technologies recorded:** Java, Oracle Database, iText PDF, Apache POI.
 
+**Demonstration Case Studies:** [Onfly Document generation](../02-project-case-studies/dynamic-document-generation/case-study.md)
+
 ### Banking: Loan Origination and Redemption Workflows
 **Avensys Consulting | EAA to LOS-WAA migration**
 
