@@ -39,7 +39,7 @@ Contributed to a hire purchase block discounting solution within an existing ban
 
 **Technologies recorded:** Java, Oracle Database, Lombok.
 
-**Demonstration Case Studies:** [On Demand Borrower History](../02-project-case-studies/on-demand-borrower-history/case-study.md)
+**Demonstration Case Studies:** [On Demand Borrower History](../02-project-case-studies/on-demand-borrower-history/case-study.md) . [Straight Through To Process](../02-project-case-studies/Straight_Through_To_Process_STP/case-study.md)
 
 ### Banking: Automated Letters of Offer
 **Avensys Consulting | Maybank projects**
